@@ -1,5 +1,6 @@
 using UnityEngine;
 
+/* Ёто скрипт из моего старого проекта. Ќужен дл€ удобства, хот€ здесь и не об€зателен. */
 public class Singleton<T> : MonoBehaviour where T : Component
 {
     private static T instance;
